@@ -4,7 +4,7 @@ TrabajoEnfoque_DavanteDent_LRVS
 TrabajoEnfoque_DavanteDent_LRVS
 # 🦷 DavanteDent - Gestión de Citas Odontológicas
 
-![Logo DavanteDent](img/logo.png)
+![Logo DavanteDent](img/davantedent.png)
 
 ## 📋 Descripción del Proyecto
 DavanteDent es una aplicación web de **Front-end** diseñada para la gestión integral de citas diarias en una clínica dental. Este proyecto ha sido desarrollado como parte del módulo **Desarrollo Web en Entorno Cliente (DAW)**, cumpliendo con los requisitos de arquitectura cliente/servidor y manipulación dinámica del DOM.
